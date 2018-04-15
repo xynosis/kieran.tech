@@ -1,3 +1,3 @@
 # kieran.tech
 
-> Code for kieran.tech, made with Vue.js.
+Code for kieran.tech, made with Vue.js.
