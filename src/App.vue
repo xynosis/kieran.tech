@@ -3,9 +3,6 @@
   v-content
     bio(:pages='pages')
     router-view
-    
-  
-   
         
     //- v-footer(:fixed="fixed" app)
     
@@ -22,10 +19,10 @@ export default {
       // projects: false,
       // papers: false
       pages: [
-        { name: "about", path: "/" },
-        { name: "thoughts", path: "/thoughts" },
-        { name: "projects", path: "/projects" },
-        { name: "papers", path: "/papers" }
+        { name: "About", path: "/" },
+        { name: "Thoughts", path: "/thoughts" },
+        { name: "Projects", path: "/projects" },
+        { name: "Papers", path: "/papers" }
       ]
       // icons: [
       //   { name: "email", path: "mailto:k.l.cutting2@ncl.ac.uk" },
@@ -55,9 +52,8 @@ export default {
   font-size: 16pt;
   color: #000000;
   text-align: justify;
-  margin-top: 50px;
-  margin-bottom: 50px;
-  margin-right: 100px;
-  margin-left: 100px;
+  /* margin-top: 50px;
+  margin-bottom: 50px; */
+ 
 }
 </style>
