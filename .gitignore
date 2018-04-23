@@ -1,1 +1,8 @@
 node_modules/
+static/
+src/
+config/
+build/
+index.html
+package-lock.json
+package.json
