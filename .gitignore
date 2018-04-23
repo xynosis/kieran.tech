@@ -1,9 +1,8 @@
 node_modules/
-static/
 src/
 config/
 build/
-index.html
+index2.html
 package-lock.json
 package.json
 docs/
